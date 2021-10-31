@@ -1,4 +1,4 @@
-# AltaCV, yet another LaTeX CV/Résumé class
+# AltaCV, yet another LaTeX CV/Resume Class
 
 v1.1.5 (1 December 2018), by LianTze Lim (liantze@gmail.com)
 
